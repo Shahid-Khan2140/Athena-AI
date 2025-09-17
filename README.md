@@ -1,8 +1,8 @@
-# Chat - AI
+# AthenaAI
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://ai.visheshpandey.com)
+[AthenaAI](https://ai.visheshpandey.com)
 
 ## Setup Procedure
 
