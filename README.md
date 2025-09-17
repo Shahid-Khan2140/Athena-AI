@@ -1,2 +1,12 @@
-# Athena-AI
-AthenaAI Web App – Built with React and Gemini API, featuring real-time AI chat, voice input, and document-based Q&amp;A (PDF, DOCX, TXT). Includes secure Auth modal, animated UI, and a multi-tab settings panel. Enhanced with Markdown rendering, file parsing, and a modern dark-themed responsive design.
+# Chat - AI
+
+AI Chat App using Generative Language Client API
+
+[chat-ai](https://ai.visheshpandey.com)
+
+## Setup Procedure
+
+- Copy .env.example to .env
+- Get API key from: [api-key](https://aistudio.google.com/app/apikey)
+- `npm install`
+- `ndevpm run `
